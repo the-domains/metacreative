@@ -1,6 +1,6 @@
 name: metacreative
 favicon: null
-layout_spectrum: 0.628338449401781
+layout_spectrum: 1
 typography_spectrum: 0.6297260650899261
 title: Web Design Perth
 cta:
@@ -22,7 +22,7 @@ color:
     - '#B3BFB8'
     - '#F0F7F4'
     - '#A2E3C4'
-  brandStrength: 0.9567681814078242
+  brandStrength: 1
   lightness: 0.9887805813923478
   saturation: 0.05240963096730411
   rhythmicContrast: 0.756812155013904
